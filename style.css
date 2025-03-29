@@ -1,0 +1,14 @@
+#section1 {
+    color:rgba(8, 237, 245, 0.977) 
+}
+
+body {
+    background: linear-gradient(to bottom,#ff00d2,#fdf7fc)
+}
+
+#main-nav {
+    position:fixed;
+    top:0;
+    width:100%;
+    
+}
