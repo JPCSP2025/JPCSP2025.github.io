@@ -3,7 +3,7 @@
 }
 
 body {
-    background: linear-gradient(to bottom,#ff00d2,#fdf7fc)
+    background: linear-gradient(to bottom, RGB(255, 0, 210),RGB(253, 247, 252))
 }
 
 #main-nav {
